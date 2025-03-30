@@ -1,7 +1,7 @@
 # CamPaint - Webcam-Based Drawing
 
 ## Overview
-CamPaint is a Java-based application that allows users to interact with their webcam feed to create dynamic digital paintings. Using color detection, it tracks a target color and allows users to "paint" by filling the largest detected region with a chosen color.
+CamPaint is a Java-based application that allows users to interact with their webcam feed to create dynamic digital paintings. Color detection tracks a target color and allows users to "paint" by filling the largest detected region with a chosen color.
 
 ## Features
 - Live webcam feed display
@@ -34,7 +34,7 @@ CamPaint is a Java-based application that allows users to interact with their we
 
 ## Author
 - Dartmouth CS 10, Winter 2025
-- Based on previous versions of CamPaint
+- Richmond Nartey Kwalah Tettey
 
 ## License
 This project is for educational purposes under Dartmouth CS 10.  
